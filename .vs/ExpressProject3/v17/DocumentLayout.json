@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\expressproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:expressproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\views\\index.pug||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -15,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|c:\\users\\kolam\\source\\repos\\expressproject3\\expressproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FA5745FC-8993-516A-BA7D-AD900EAB4D59}|ExpressProject3.esproj|solutionrelative:expressproject3.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +46,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.pug",
-              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\views\\index.pug",
-              "RelativeDocumentMoniker": "views\\index.pug",
-              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\views\\index.pug",
-              "RelativeToolTip": "views\\index.pug",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package.json",
+              "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-04-14T13:43:00.458Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T08:52:27.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
               "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\public\\index.html",
               "RelativeToolTip": "public\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-14T13:23:36.145Z",
+              "WhenOpened": "2025-04-14T13:23:36.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T10:47:44.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-14T10:41:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpressProject3.esproj",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\ExpressProject3.esproj",
+              "RelativeDocumentMoniker": "ExpressProject3.esproj",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\ExpressProject3.esproj",
+              "RelativeToolTip": "ExpressProject3.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T10:33:16.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-15T09:14:28.387Z",
               "EditorCaption": ""
             },
             {
@@ -80,7 +137,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "index.pug",
+              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\views\\index.pug",
+              "RelativeDocumentMoniker": "views\\index.pug",
+              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\views\\index.pug",
+              "RelativeToolTip": "views\\index.pug",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-04-14T13:43:00.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\routes\\index.js",
               "RelativeDocumentMoniker": "routes\\index.js",
@@ -89,42 +158,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-04-14T13:23:24.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "package-lock.json",
-              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package-lock.json",
-              "RelativeDocumentMoniker": "package-lock.json",
-              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\package-lock.json",
-              "RelativeToolTip": "package-lock.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T10:47:44.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\app.js",
-              "RelativeDocumentMoniker": "app.js",
-              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\app.js",
-              "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-14T10:41:33.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExpressProject3.esproj",
-              "DocumentMoniker": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\ExpressProject3.esproj",
-              "RelativeDocumentMoniker": "ExpressProject3.esproj",
-              "ToolTip": "C:\\Users\\kolam\\source\\repos\\ExpressProject3\\ExpressProject3.esproj",
-              "RelativeToolTip": "ExpressProject3.esproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-14T10:33:16.6Z"
             }
           ]
         }
