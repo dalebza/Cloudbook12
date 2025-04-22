@@ -5,7 +5,6 @@
     <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.0.0</PackageJsonVersion>
     <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
     <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">node ./bin/www</PackageJsonScriptsStart>
-    <PackageJsonDependenciesConvertapi Condition="$(PackageJsonDependenciesConvertapi) == ''">^1.15.0</PackageJsonDependenciesConvertapi>
     <PackageJsonDependenciesConvertapiJs Condition="$(PackageJsonDependenciesConvertapiJs) == ''">^1.0.8</PackageJsonDependenciesConvertapiJs>
     <PackageJsonDependenciesCookieParser Condition="$(PackageJsonDependenciesCookieParser) == ''">~1.4.4</PackageJsonDependenciesCookieParser>
     <PackageJsonDependenciesDebug Condition="$(PackageJsonDependenciesDebug) == ''">~2.6.9</PackageJsonDependenciesDebug>
