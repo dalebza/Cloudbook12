@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-<html>
-
-
-<script src="https://unpkg.com/convertapi-js/lib/convertapi.js"></script>
-<script src="../index.js"></script>
-
-<body>
-
-<button>Render Html</button>
-<input id="uploadInput"  type="file" multiple/>
-<div id="container">
-</div>
-<div id="main_container"  style="border: 1px solid black; width: 1000px;height: 440;">
-
-</div>
-</body>
-</html>
-<script>
-//init
-
-
-let convertApi = ConvertApi.auth({secret: 'secret_SxV08j354HOALVRk'});
-=======
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -45,11 +21,9 @@ let convertApi = ConvertApi.auth({secret: 'secret_SxV08j354HOALVRk'});
 <script>
 	//init
 
-	import ConvertApi from 'convertapi-js'
 	console.log("js code runs ....");
 	
 let convertApi = ConvertApi.auth({secret: 'secret_KxKEDA1zS4Fv34j2'});
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 console.log(convertApi);
 let params = convertApi.createParams()
 
@@ -70,11 +44,7 @@ dataStream().then(
 	function(result){
 
 		let url = result.files[0].Url;
-<<<<<<< HEAD
-		
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 		    console.log("This is a "+ result.files.length+"page document");
 			console.log(url);
 			console.log(result.files[1].Url);
@@ -89,11 +59,7 @@ dataStream().then(
 			   div = document.getElementById('container');
 			   div.appendChild(img);
 			}
-<<<<<<< HEAD
-			
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 				const  flag_arr = [false,false,false,false];
 for(i = 0; i<n; i++){
 	flag_arr[i]=false;
@@ -111,11 +77,7 @@ for(i = 0; i<n; i++){
 			   div.style.marginLeft="50px";
 			   div.style.zIndex = n-q;
 			   div.style.transform ="rotateY(0deg) translateX(0px)";
-<<<<<<< HEAD
-			   div.onclick = function flipPage(e){ 
-=======
 			   div.onclick = function flipPage(e){
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 			   console.log("flips page");
 			   console.log(e.target.id);
 			   console.log(this);
@@ -126,28 +88,6 @@ for(i = 0; i<n; i++){
 				 q = parseInt(str.charAt(str.length-1));
 				// console.log("q= "+q);
 				if(this.flag ==false){
-<<<<<<< HEAD
-				
-
-			
-
-						this.animate([{transform: "rotateY(0deg) translateX(0px)"},{transform: "rotateY(-166deg) translateX(0px)"}],{duration:2000,fill:"forwards"});
-						this.flag=true;
-						
-						var timer = setTimeout(popUp2(this),50000);
-						
-						function popUp2(obj){
-						
-						  console.log('popUp2');
-						  			console.log(new Date().getMilliseconds());			
-						
-				
-							  // this.style.zIndex=2*-q;
-							//for(i = 1; i<q; i++){
-							  
-							  console.log(obj.id);
-							  
-=======
 
 
 
@@ -168,7 +108,6 @@ for(i = 0; i<n; i++){
 
 							  console.log(obj.id);
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							  ct = document.getElementById("container"+q);
 							  y = parseInt(div.id.charAt(div.id.length-1));
 
@@ -176,11 +115,7 @@ for(i = 0; i<n; i++){
 							  n = main.children.length;
 							//  obj.children[0].style.zIndex =  obj.children[0].style.zIndex*-1;
 							//  obj.children[1].style.zIndex =  obj.children[1].style.zIndex*-1;
-<<<<<<< HEAD
-							 
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							 setTimeout(()=>{
 							  obj.style.zIndex =  n-y;
 							  obj.children[1].style.zIndex = n+z;
@@ -189,29 +124,6 @@ for(i = 0; i<n; i++){
 								// slide2.style.position ="sticky";
 							 // slide2.style.position ="sticky";
 							    slide2.style.transform="scaleX(-1) translateX(-475px)";
-<<<<<<< HEAD
-							  
-							  
-							  },1000);
-							//  obj.style.zIndex = n + z;  
-							  console.log(obj.children[1]);
-							   slide1 = obj.children[0];
-							
-							  console.log(obj);
-							  console.log(slide1);
-							  console.log(slide2);
-							  
-								z = z +1;				
-						//	}
-							
-							    
-
-					  }
-					//clearTimeout(timer);	
-                       
-						
-					   
-=======
 
 
 							  },1000);
@@ -233,16 +145,11 @@ for(i = 0; i<n; i++){
 
 
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 
 
 						//console.log(2*q);
 					}else if(this.flag==true){
-<<<<<<< HEAD
-					
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 											//this.style.zIndex=0;
 							  n = main.children.length;
 
@@ -253,18 +160,6 @@ for(i = 0; i<n; i++){
 
 						function popUp(obj){
 						  console.log('popUp');
-<<<<<<< HEAD
-						  						
-						
-				             //for(i = 0; i<q; i++){
-							  ct = document.getElementById("container"+q);
-							  
-							  main = document.getElementById("main_container");
-							  n = main.children.length;
-							
-							setTimeout(()=>{
-							
-=======
 
 
 				             //for(i = 0; i<q; i++){
@@ -275,54 +170,29 @@ for(i = 0; i<n; i++){
 
 							setTimeout(()=>{
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							console.log(obj.id);
 							str = obj.id;
 							if(str.length%2==0){
 							    console.log("even " +obj.id);
 								console.log(parseInt(str.charAt(str.length-1)));
-<<<<<<< HEAD
-							obj.style.zIndex = n-q; 
-=======
 							obj.style.zIndex = n-q;
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							//  console.log(ct);
 							q = parseInt(str.charAt(str.length-1));
 							obj.children[0].style.zIndex = n-q;
 							obj.children[1].style.zIndex =  -1*(obj.children[1].style.zIndex);
 
-<<<<<<< HEAD
-							
-							}else{
-							
-=======
 
 							}else{
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							    console.log("odd "+ obj.id);
 								str = obj.id;
 							    q = parseInt(str.substring(str.length-2,str.length));
 								console.log(q);
-<<<<<<< HEAD
-								obj.style.zIndex = n-q; 
-=======
 								obj.style.zIndex = n-q;
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							//  console.log(ct);
 								obj.children[0].style.zIndex = n-q;
 							    obj.children[1].style.zIndex = -1*(obj.children[1].style.zIndex);
 
-<<<<<<< HEAD
-							
-							}
-							
-
-							//console.log(n-q);
-
-							
-							
-=======
 
 							}
 
@@ -331,32 +201,21 @@ for(i = 0; i<n; i++){
 
 
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 
 							  slide1 = obj.children[0];
 							  slide2 = obj.children[1];
 							  console.log(obj);
 							  console.log(slide1);
 							  console.log(slide2);
-<<<<<<< HEAD
-											},1000);	
-=======
 											},1000);
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 							//}
 					  //  clearTimeout(timer1);
 
 					  }
 					}
-<<<<<<< HEAD
-						
-			   };
-				
-=======
 
 			   };
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 				k = 0;
 				contArr = ["a","b"];
 				while(k<2){
@@ -376,16 +235,6 @@ for(i = 0; i<n; i++){
 						 z = z-1;
 						 console.log(z);
 					 }
-<<<<<<< HEAD
-					
-					 ctn_k.style.position ="absolute";
-					 ctn_k.style.display= "none";
-					 div.appendChild(ctn_k);
-				
-				
-				
-				
-=======
 
 					 ctn_k.style.position ="absolute";
 					 ctn_k.style.display= "none";
@@ -394,7 +243,6 @@ for(i = 0; i<n; i++){
 
 
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 					for(j =1;j<20;j++){
 						//if(j%2 ==0){
 							img = document.createElement("img");
@@ -409,28 +257,17 @@ for(i = 0; i<n; i++){
 						//}
 					}
 					k= k+1
-<<<<<<< HEAD
-					
-				}
-				
-			
-=======
 
 				}
 
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 				maincnt = document.getElementById('main_container');
                 maincnt.appendChild(div);
 		}
 
 
 			stackDisplay(n);
-<<<<<<< HEAD
-			
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 	},function(error){
 	console.log(error);
    });
@@ -439,11 +276,7 @@ for(i = 0; i<n; i++){
 
 x  = 0;
 	y = 55;
-<<<<<<< HEAD
-	
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 function stackDisplay(n){
   console.log(n);
 
@@ -456,11 +289,7 @@ function stackDisplay(n){
      while(k_<2){
 	 console.log("k_ ="+k_+" "+p);
 		for(j=1; j<20;j++){
-<<<<<<< HEAD
-    
-=======
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 			img = document.getElementById('img'+((p+k_)+" "+j));
 	        console.log("p "+p+" k_ "+k_+" j "+j);
 			//console.log(img);
@@ -482,30 +311,6 @@ function stackDisplay(n){
 			y = 55+i;
 			//  img.style.transform="rotateY("+(y)+"deg)";
 			if((i>-1)&(i<=4)){
-<<<<<<< HEAD
-		
-				img_.style.clipPath="xywh("+x+"px 0 25% 100% round 0% 0%)";
-		
-			}
-			if((i>4)&(i<=10)){
-		
-				img_.style.clipPath="xywh("+x+"px 25% 100% round 0% 0%)";
-			}
-			if((i>10)&(i<=11)){
-		
-				img_.style.clipPath="xywh("+x+"px 0 25% 100% round 0% 0%)";
-			
-			}
-			if(i>11){
-		
-				img_.style.clipPath="xywh("+x+"px 0 25% 100% round 0% 0%)";
-		
-			}
-		
-			x = x+20;
-  
-  
-=======
 
 				img_.style.clipPath="xywh("+x+"px 0 25% 100% round 0% 0%)";
 
@@ -528,21 +333,11 @@ function stackDisplay(n){
 			x = x+20;
 
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 		}
 		k_ = k_ + 1;
 		x=0;
 	   }
 	}else{
-<<<<<<< HEAD
-	
-		//div = document.getElementById("main_container");
-		//div.removeChild(div.children(p-1));
-		
-	}
- }
-}
-=======
 
 		//div = document.getElementById("main_container");
 		//div.removeChild(div.children(p-1));
@@ -550,18 +345,11 @@ function stackDisplay(n){
 	}
  }
 
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
 
 
 function flipPage(){
 	console.log('flipPage');
 	}
 
-<<<<<<< HEAD
-
-
-</script>
-=======
 	}
 	</script>
->>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895

@@ -16,7 +16,11 @@
       "webRoot": "${workspaceFolder}\\public"
     },
     {
+<<<<<<< HEAD
       "name": "Launch ExpressProject4",
+=======
+      "name": "Launch ExpressProject3",
+>>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}/bin",
@@ -28,7 +32,11 @@
     {
       "name": "Launch Node and Browser",
       "configurations": [
+<<<<<<< HEAD
         "Launch ExpressProject4",
+=======
+        "Launch ExpressProject3",
+>>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
         "localhost (Edge)"
       ]
     }

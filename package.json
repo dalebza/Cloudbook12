@@ -1,12 +1,19 @@
 {
+<<<<<<< HEAD
   "name": "expressproject4",
+=======
+  "name": "expressproject3",
+>>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "dependencies": {
+<<<<<<< HEAD
     "convertapi": "^1.15.0",
+=======
+>>>>>>> 60a510b94a8da1c3b51133d08481f1cedd1ac895
     "convertapi-js": "^1.0.8",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
